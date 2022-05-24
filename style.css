@@ -43,7 +43,7 @@ body.dark .header h2 {
     color: rgb(122, 122, 122);
 }
 .wrapper {
-    width: 500px;
+    max-width: 500px;
     margin: 0 auto;
     -webkit-box-shadow: 0px 0px 39px 7px rgba(34, 60, 80, 0.2);
     -moz-box-shadow: 0px 0px 39px 7px rgba(34, 60, 80, 0.2);
@@ -100,7 +100,7 @@ body.dark .input_wrapper button{
 }
 .functions__wrapper {
     background-color: #fff;
-    width: 500px;
+    max-width: 500px;
     height: 35px;
 }
 body.dark .functions__wrapper{

@@ -277,24 +277,3 @@ function transTheme() {
     }
 }
 
-
-
-
-
-      //  con = 1;
-      //  console.log(con)
-       // return con
-
-       
-  /*  } else {
-        const check = document.querySelector("fas fa-check")
-        check.
-        con = 0;
-        return con
-    }
-    */
-
-
-
- // <i class="fas fa-check"></i>
-// <i class="far fa-circle"></i>
